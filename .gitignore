@@ -1,0 +1,41 @@
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.cache
+*.ilk
+*.log
+
+# Build results
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+obj/
+out/
+publish/
+
+# SQL Server LocalDB / database files
+
+*.ldf
+*.ndf
+
+# Resharper / tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*/
+
+# NuGet
+packages/
+
+# Office temp files
+~$*
