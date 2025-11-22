@@ -43,15 +43,20 @@ This project was developed using C#, Windows Forms, and a SQL Server local datab
 - Backend interacts with the database using typed adapters and program logic
 
 ## Screenshots
-<img width="986" height="515" alt="image" src="https://github.com/user-attachments/assets/18674721-0426-402b-8ade-e6fad1f58eb4" />
-<img width="1219" height="609" alt="image" src="https://github.com/user-attachments/assets/1e85ec16-a28c-4ee0-ac83-20fb85f92a8d" />
-<img width="1204" height="609" alt="image" src="https://github.com/user-attachments/assets/1d12f9b6-1435-4cff-aea0-e4977b75df80" />
-<img width="1210" height="608" alt="image" src="https://github.com/user-attachments/assets/094cc641-38bb-4e90-85db-18d1e14737b0" />
-<img width="1158" height="560" alt="image" src="https://github.com/user-attachments/assets/b28f6ff1-26fd-4c19-9bca-f564aa9f44e2" />
-<img width="1160" height="558" alt="image" src="https://github.com/user-attachments/assets/511aa821-1578-48c2-946f-2630cf2ce323" />
-<img width="1156" height="556" alt="image" src="https://github.com/user-attachments/assets/b5435897-1be0-4e1a-a289-a25b6bff5821" />
-<img width="1146" height="559" alt="image" src="https://github.com/user-attachments/assets/dd7cdce1-b708-4013-8d5b-3fc402b56f9c" />
-<img width="1155" height="554" alt="image" src="https://github.com/user-attachments/assets/faa5da9e-3dca-479d-b769-50bc8ec0334a" />
+<img width="985" height="522" alt="image" src="https://github.com/user-attachments/assets/25582c74-e442-4958-892d-e636ad093519" />
+<img width="1213" height="611" alt="image" src="https://github.com/user-attachments/assets/a72705d7-73e6-42a0-85d1-64c1c2fc9fe3" />
+<img width="1209" height="607" alt="image" src="https://github.com/user-attachments/assets/e38d77fe-2778-4204-80f8-dbac0b58b53a" />
+<img width="1207" height="608" alt="image" src="https://github.com/user-attachments/assets/eb1011ca-9333-4046-9e6b-26a160fa26b2" />
+
+
+<img width="1157" height="553" alt="image" src="https://github.com/user-attachments/assets/73e66bee-aa8c-4571-a79b-4e9813ffa586" />
+<img width="1161" height="562" alt="image" src="https://github.com/user-attachments/assets/3ceb0ed5-5381-4124-b4be-d917a6fd32fb" />
+
+<img width="1153" height="558" alt="image" src="https://github.com/user-attachments/assets/c710fe0f-1cf3-4fcc-9f69-a527e7c21aa3" />
+<img width="1145" height="553" alt="image" src="https://github.com/user-attachments/assets/5a9703d9-75bb-4cda-93ee-0cf866134687" />
+<img width="1149" height="556" alt="image" src="https://github.com/user-attachments/assets/81e9dca3-8b2f-47fb-931c-e3eb2dab5beb" />
+
+
 
 
 
