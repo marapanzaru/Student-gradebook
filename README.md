@@ -4,8 +4,10 @@
 
 Student-Gradebook is a Windows Forms application designed to manage core elements of a school catalog system. It provides a clean, role-based login experience for both students and professors, each with access to tools tailored to their responsibilities.
 Students can view their academic information, while professors can manage grades, absences, and student records through an intuitive interface.
+Implemented in C#, Windows Forms, and a local SQL Server database, emphasizing a clear separation between UI and data logic.
 
-This project was developed using C#, Windows Forms, and a SQL Server local database, following a clear separation between UI and data logic.
+Developed as part of the professional competency certification completed before high school graduation.
+
 ## Features Implemented
 **Role-Based Login**
 - Secure login using credential validation
